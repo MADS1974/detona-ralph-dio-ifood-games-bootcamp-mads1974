@@ -1,3 +1,14 @@
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/mads1974_detona-ralph-by-mads1974-o-projeto-detona-activity-7140194724983857154-FO3x?utm_source=share&utm_medium=member_desktop">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto"> 🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/9fc59800-279b-462d-9f12-92ea3bf5697e"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/9fc59800-279b-462d-9f12-92ea3bf5697e.svg" alt="wakatime"></a>
+</p>
 
 # Detona Ralph by Mads1974
 
